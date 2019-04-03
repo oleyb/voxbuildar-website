@@ -6953,5 +6953,7 @@ label.panel-block {
   background-repeat: no-repeat;
   /* Do not repeat the image */
   background-size: cover;
-  /* Resize the background image to cover the entire container */ 
-}
+  /* Resize the background image to cover the entire container */ }
+
+.app-title {
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1); }
